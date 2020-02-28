@@ -1,0 +1,9 @@
+matplotlib
+pydicom
+dicom
+tensorflow==1.15 # NiftyNet
+niftynet
+seaborn
+pandas
+google
+google-cloud-bigquery

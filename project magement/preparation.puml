@@ -1,0 +1,46 @@
+@startwbs
+* 의학 자료 분석
+** image
+*** type
+**** dcm file
+**** 단순 이미지
+*** prediction
+*** diagnostic
+*** pre-processing
+**** acquisition
+**** digitization
+**** enhancement
+***** calibration
+***** optimization
+***** transformation
+***** filtering
+**** visualization
+**** analysis
+***** feature extraction
+***** segmentation
+***** classification
+****** interpretation
+****** measurement
+**** management
+** text
+** 전처리
+*** 파이썬 패키지
+**** pydicom
+**** NLTK
+**** DLTK
+*** 이미지
+**** 저용량 노이즈 제거
+**** 분할(segmentation)
+*** 정형 비정형 통합
+**** annotation or tagging
+** 분석
+*** 시계열 데이터 분석
+*** 모델
+**** RNN
+**** LSTM
+*** 예측
+**** 장기
+**** 단기
+** 데이터
+*** 정
+@endwbs
