@@ -1,7 +1,7 @@
 matplotlib
 pydicom
 dicom
-tensorflow==1.15 # NiftyNet
+tensorflow== 1.15.2 # NiftyNet
 niftynet
 seaborn
 pandas
